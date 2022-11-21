@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tekartik.sqflite",
+    "module": "sqflite_debug",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqflite_debug-0.0.1.aar",
+          "url": "sqflite_debug-0.0.1.aar",
+          "size": 39318,
+          "sha512": "6f7688db04833053098d9c7eea3bbe3b102213eddf0e826642a4458aceed8b9bc68f746e80629b283a799869cc0874f8450eb8b00e40863bec2ab1843a055af8",
+          "sha256": "5e26ca5ceebb731ab59e3974f050655aa1a60dbc71999ac9a56ae5a3d833add0",
+          "sha1": "1222e334ce6a57462a06b87b567f08764c958c77",
+          "md5": "2a8caafc8cf56bc7819e51a0231384f3"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqflite_debug-0.0.1.aar",
+          "url": "sqflite_debug-0.0.1.aar",
+          "size": 39318,
+          "sha512": "6f7688db04833053098d9c7eea3bbe3b102213eddf0e826642a4458aceed8b9bc68f746e80629b283a799869cc0874f8450eb8b00e40863bec2ab1843a055af8",
+          "sha256": "5e26ca5ceebb731ab59e3974f050655aa1a60dbc71999ac9a56ae5a3d833add0",
+          "sha1": "1222e334ce6a57462a06b87b567f08764c958c77",
+          "md5": "2a8caafc8cf56bc7819e51a0231384f3"
+        }
+      ]
+    }
+  ]
+}

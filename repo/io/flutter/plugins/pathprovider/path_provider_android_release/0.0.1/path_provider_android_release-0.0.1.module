@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.flutter.plugins.pathprovider",
+    "module": "path_provider_android_release",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-0.0.1.aar",
+          "url": "path_provider_android_release-0.0.1.aar",
+          "size": 12414,
+          "sha512": "1619f92ee3a2719d9b839d47a0b37a028e1b310c4a6b56f370316210baaeaf1ccb9a4a55032bf0fc836e3628023cb53932f7a6a65921b2ff05b7f8d131b86abb",
+          "sha256": "e585e8653528fb4fc57ca623da87a612a17cc3ec93f3e228f84d29437d958640",
+          "sha1": "9c3ee67c6573895db10a7998de8ba75ebc0b2fab",
+          "md5": "4fc74a52f278b3daeec99b330f96a97c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.1-android"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "path_provider_android_release-0.0.1.aar",
+          "url": "path_provider_android_release-0.0.1.aar",
+          "size": 12414,
+          "sha512": "1619f92ee3a2719d9b839d47a0b37a028e1b310c4a6b56f370316210baaeaf1ccb9a4a55032bf0fc836e3628023cb53932f7a6a65921b2ff05b7f8d131b86abb",
+          "sha256": "e585e8653528fb4fc57ca623da87a612a17cc3ec93f3e228f84d29437d958640",
+          "sha1": "9c3ee67c6573895db10a7998de8ba75ebc0b2fab",
+          "md5": "4fc74a52f278b3daeec99b330f96a97c"
+        }
+      ]
+    }
+  ]
+}
