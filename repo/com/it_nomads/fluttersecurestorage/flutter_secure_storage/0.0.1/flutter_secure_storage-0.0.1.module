@@ -36,11 +36,11 @@
         {
           "name": "flutter_secure_storage-0.0.1-debug.aar",
           "url": "flutter_secure_storage-0.0.1-debug.aar",
-          "size": 27756,
-          "sha512": "8509a1e464264bbbd69d11ef68ce4b5cdcb7623fb4fe7962dbffd37e1740b7aeff4aa227a5341ea5197f8293460dddf1b589c3d9a594eb1103501c1a67f865e7",
-          "sha256": "755fa56d125ba92575d855003cc2e1630f2dabbfc003c866c971c0bb635cdc07",
-          "sha1": "d14b08800cf19af429c49e6589f150bc6ab781d4",
-          "md5": "1110f4672a57e3a1fec2522dda79bd9e"
+          "size": 18263,
+          "sha512": "9912f4b3fe23f5d6e1b80c52be6a4cd1131a4bc1065a51c6c4aa1d06cb307f23128a669cb346f406c5e11b743879b807add92da2d58f01ad6bbebb87b943605e",
+          "sha256": "a468977118a3ffa5abb972f5e898be9f602050cead84d2dc7c9f7d4c5acd0a63",
+          "sha1": "769d3e3059f8e1ff95846f533d22af0e700a6f7b",
+          "md5": "132ac75914ac07d6fc354b22924786f7"
         }
       ]
     },
@@ -60,24 +60,17 @@
           "version": {
             "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
           }
-        },
-        {
-          "group": "androidx.security",
-          "module": "security-crypto",
-          "version": {
-            "requires": "1.1.0-alpha03"
-          }
         }
       ],
       "files": [
         {
           "name": "flutter_secure_storage-0.0.1-debug.aar",
           "url": "flutter_secure_storage-0.0.1-debug.aar",
-          "size": 27756,
-          "sha512": "8509a1e464264bbbd69d11ef68ce4b5cdcb7623fb4fe7962dbffd37e1740b7aeff4aa227a5341ea5197f8293460dddf1b589c3d9a594eb1103501c1a67f865e7",
-          "sha256": "755fa56d125ba92575d855003cc2e1630f2dabbfc003c866c971c0bb635cdc07",
-          "sha1": "d14b08800cf19af429c49e6589f150bc6ab781d4",
-          "md5": "1110f4672a57e3a1fec2522dda79bd9e"
+          "size": 18263,
+          "sha512": "9912f4b3fe23f5d6e1b80c52be6a4cd1131a4bc1065a51c6c4aa1d06cb307f23128a669cb346f406c5e11b743879b807add92da2d58f01ad6bbebb87b943605e",
+          "sha256": "a468977118a3ffa5abb972f5e898be9f602050cead84d2dc7c9f7d4c5acd0a63",
+          "sha1": "769d3e3059f8e1ff95846f533d22af0e700a6f7b",
+          "md5": "132ac75914ac07d6fc354b22924786f7"
         }
       ]
     },
@@ -103,11 +96,11 @@
         {
           "name": "flutter_secure_storage-0.0.1-release.aar",
           "url": "flutter_secure_storage-0.0.1-release.aar",
-          "size": 26455,
-          "sha512": "7ff86f99abd6f0f916233e74cfe7cedcff3de055b3a2f82291deabc9c6ee6b667fea139033d86a6ac138dd22de5d71f1ddef9a44489562f93fc9f7d8c482e8e3",
-          "sha256": "92c2c39c104f07b65f3aec2cc078c01303e20b9fa4641cd16e0c132fbf8fe957",
-          "sha1": "7cbb1c1f193e9e6c8961c396a9dd02eb8e839e98",
-          "md5": "3bf43af6624bc17d311e958618a512a0"
+          "size": 17434,
+          "sha512": "5da29e2b82d19294682a72c5bea713fcfa480129d855248d9b12b016eac35d5bde14dfc40824d1a3f25f3ec8811229ce4670dd2edb0563fe77693b2c6f0de936",
+          "sha256": "0e696c7fbc3d12b032837dfc08783820754ce695a213a4d1e47268d0ed9b9edb",
+          "sha1": "52f82c84a43700db2bb7674c82108436ad324149",
+          "md5": "a1469c84fc345743a25958837bc34d28"
         }
       ]
     },
@@ -127,24 +120,17 @@
           "version": {
             "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
           }
-        },
-        {
-          "group": "androidx.security",
-          "module": "security-crypto",
-          "version": {
-            "requires": "1.1.0-alpha03"
-          }
         }
       ],
       "files": [
         {
           "name": "flutter_secure_storage-0.0.1-release.aar",
           "url": "flutter_secure_storage-0.0.1-release.aar",
-          "size": 26455,
-          "sha512": "7ff86f99abd6f0f916233e74cfe7cedcff3de055b3a2f82291deabc9c6ee6b667fea139033d86a6ac138dd22de5d71f1ddef9a44489562f93fc9f7d8c482e8e3",
-          "sha256": "92c2c39c104f07b65f3aec2cc078c01303e20b9fa4641cd16e0c132fbf8fe957",
-          "sha1": "7cbb1c1f193e9e6c8961c396a9dd02eb8e839e98",
-          "md5": "3bf43af6624bc17d311e958618a512a0"
+          "size": 17434,
+          "sha512": "5da29e2b82d19294682a72c5bea713fcfa480129d855248d9b12b016eac35d5bde14dfc40824d1a3f25f3ec8811229ce4670dd2edb0563fe77693b2c6f0de936",
+          "sha256": "0e696c7fbc3d12b032837dfc08783820754ce695a213a4d1e47268d0ed9b9edb",
+          "sha1": "52f82c84a43700db2bb7674c82108436ad324149",
+          "md5": "a1469c84fc345743a25958837bc34d28"
         }
       ]
     },
@@ -170,11 +156,11 @@
         {
           "name": "flutter_secure_storage-0.0.1-profile.aar",
           "url": "flutter_secure_storage-0.0.1-profile.aar",
-          "size": 26457,
-          "sha512": "da1e182a248cd8a5fcb10d656f93fdc31d59349135f8e65d944a83d7bde3a141134a60542d490a7dc111543ddbb3b212e38da1493c02377226fb74d221f30bca",
-          "sha256": "0ef98c60aaaf607f2487a96a9210886b6158cbc1d7c59cd12ed5a1e3a75c1895",
-          "sha1": "95dcbd468196a39500a4d15c443d5ddc545b2ced",
-          "md5": "1e15bab0660e3e0f1765a1f3425f0c02"
+          "size": 17432,
+          "sha512": "4bf823fa4e686230dec511781a427de0085619833a781307eb0a220fb08dcb66d8d2486b86a04763ac4d2ec5040dd9445a3c62a758f487c85034dd169a4ba91f",
+          "sha256": "1eac9d66bfb60e99940b93027ae79abda627bc9bae3906a649a8e3649017164e",
+          "sha1": "ec90477769176307723e3b000e12fa26f4cfa6ac",
+          "md5": "93be11ca749a7314d79338d4cec95855"
         }
       ]
     },
@@ -194,24 +180,17 @@
           "version": {
             "requires": "1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d"
           }
-        },
-        {
-          "group": "androidx.security",
-          "module": "security-crypto",
-          "version": {
-            "requires": "1.1.0-alpha03"
-          }
         }
       ],
       "files": [
         {
           "name": "flutter_secure_storage-0.0.1-profile.aar",
           "url": "flutter_secure_storage-0.0.1-profile.aar",
-          "size": 26457,
-          "sha512": "da1e182a248cd8a5fcb10d656f93fdc31d59349135f8e65d944a83d7bde3a141134a60542d490a7dc111543ddbb3b212e38da1493c02377226fb74d221f30bca",
-          "sha256": "0ef98c60aaaf607f2487a96a9210886b6158cbc1d7c59cd12ed5a1e3a75c1895",
-          "sha1": "95dcbd468196a39500a4d15c443d5ddc545b2ced",
-          "md5": "1e15bab0660e3e0f1765a1f3425f0c02"
+          "size": 17432,
+          "sha512": "4bf823fa4e686230dec511781a427de0085619833a781307eb0a220fb08dcb66d8d2486b86a04763ac4d2ec5040dd9445a3c62a758f487c85034dd169a4ba91f",
+          "sha256": "1eac9d66bfb60e99940b93027ae79abda627bc9bae3906a649a8e3649017164e",
+          "sha1": "ec90477769176307723e3b000e12fa26f4cfa6ac",
+          "md5": "93be11ca749a7314d79338d4cec95855"
         }
       ]
     }
